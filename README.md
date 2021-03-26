@@ -35,9 +35,9 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+<a href="https://github.com/mhjarvis">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mhjarvis&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhjarvis&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -45,7 +45,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/markusjarvis/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Markus%Jarvis-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/markusjarvis/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Markus-blue?style=flat-square&logo=linkedin"></a>
   <a href="mailto:markus.h.jarvis@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-markus.h.jarvis@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
