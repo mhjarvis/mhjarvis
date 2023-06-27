@@ -35,8 +35,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mhjarvis&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhjarvis&theme=buefy&layout=compact" />
 </a>
-  [![Markus's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@mhjarvis)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
