@@ -34,6 +34,7 @@
 <a href="https://github.com/mhjarvis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mhjarvis&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhjarvis&theme=buefy&layout=compact" />
+  [![Markus's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mhjarvis)](https://github.com/anuraghazra/github-readme-stats)
 </a>
 
 <br/>
