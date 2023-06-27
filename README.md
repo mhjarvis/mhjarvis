@@ -36,7 +36,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhjarvis&theme=buefy&layout=compact" />
 </a>
 
-[![wakatime](https://wakatime.com/badge/user/61f0addd-1ad9-406a-a624-e13237fe0db6.svg)](https://wakatime.com/@61f0addd-1ad9-406a-a624-e13237fe0db6)
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@mhjarvis)](https://github.com/anuraghazra/github-readme-stats)
 
 
