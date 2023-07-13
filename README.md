@@ -32,6 +32,7 @@
 <br/>
 
 <a href="https://github.com/mhjarvis">
+  <img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mhjarvis&layout=compact&langs_count=16&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mhjarvis&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhjarvis&theme=buefy&layout=compact" />
 </a>
