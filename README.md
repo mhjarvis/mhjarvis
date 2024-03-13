@@ -37,9 +37,6 @@
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mhjarvis&theme=buefy&layout=compact" />
 </a>
 
-[![Harlok's wakatime stats (since Nov '23](https://github-readme-stats.vercel.app/api/wakatime?username=mhjarvis)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 <br/>
 
