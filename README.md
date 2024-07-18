@@ -2,9 +2,6 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-
-
-
 - 🤔 &nbsp; Learning new languages and developing software solutions.
 - 🎓 &nbsp; Completed Software Development/Cybersecurity degree at Champlain College; working through The Odin Project.
 - 💼 &nbsp; Working as a Salesforce Admin/Developer and Amateur Cybersecurity Expert
