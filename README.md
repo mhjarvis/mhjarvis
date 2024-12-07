@@ -34,6 +34,9 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 <br/>
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3846979" style='border:none;'></iframe>
+<br/>
+
 <a href="https://github.com/mhjarvis">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mhjarvis&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mhjarvis&theme=buefy&layout=compact" />
