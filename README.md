@@ -34,7 +34,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 <br/>
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3846979" style='border:none;'></iframe>
+<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3846979" style='border:none;'></img>
 <br />
 <br/>
 
