@@ -36,7 +36,6 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/MoraleStopsHere.png" alt="Your Image Badge" />
 <br />
-<br/>
 
 <a href="https://github.com/mhjarvis">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mhjarvis&theme=buefy&show_icons=true" />
