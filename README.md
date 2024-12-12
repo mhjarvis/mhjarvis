@@ -36,7 +36,7 @@
 
 [![Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3846979)](https://tryhackme.com/r/p/MoraleStopsHere)
 <img src="https://tryhackme-badges.s3.amazonaws.com/MoraleStopsHere.png" alt="Your Image Badge" />
-
+<script src="https://tryhackme.com/badge/moralestopshere"></script>
 
 <a href="https://github.com/mhjarvis">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mhjarvis&theme=buefy&show_icons=true" />
